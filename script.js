@@ -64,7 +64,7 @@ client.on('message', (msg) => {
   }
 })
 
-client.login('NzQyNDI0NjkzMzYwODIwMzU2.XzF64A.ZmOkL5Pe21JWOqiCMfzLgEHYN9s')
+client.login('loginhere')
 
 
 function containsKeyword(msg, kw) {
